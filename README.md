@@ -2,14 +2,13 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-👨‍💻 &nbsp;I am Currently Working at Quinbay Technologies in Banglore as Backend Developer.\
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Computer Science and Information Technology at New Horizon College of Engineering .\
+👨‍💻 &nbsp;Actualmente estoy aprendiendo y desarrollando proyectos personales mientras me preparo para crecer como ingeniero de software.\
+💡 &nbsp;Me gusta explorar nuevas tecnologías y crear soluciones prácticas que me ayuden a mejorar mis habilidades.\
+🎓 &nbsp;Estoy estudiando en la universidad y, de manera autodidacta, profundizo en programación y lógica para fortalecer mi camino como ingeniero.\
 🌱 &nbsp;I'm on track for learning more about Web3, Microservice Based Architecture, Machine Learning.\
-✍️ &nbsp;In my free time, I pursue Logo Designing and Blog Writing as hobbies/side hustles.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at adityakanoi123@gmail.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://onedrive.live.com/?authkey=%21AKntgUe4LOwU4xA&id=2C11D5C642133C04%213605&cid=2C11D5C642133C04&parId=root&parQt=sharedby&o=OneUp) for more details about me. I'm open to feedback and suggestions!
+✍️ &nbsp;En mi tiempo libre disfruto de la música, los videojuegos y el cine, especialmente cuando tienen grandes historias que inspiran.\
+✉️ &nbsp;Puedes contactarme por correo en CristianCv2000@hotmail.com y con gusto responderé lo más pronto posible.\
+📄 &nbsp;Pronto compartiré mi portafolio y proyectos en los que estoy trabajando. ¡Estoy abierto a consejos y retroalimentación!
 
 
 ### Spotify Playing 🎧
@@ -48,7 +47,5 @@
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)&nbsp;
 
 ## Contact
-<a href="">![Instagram](https://img.shields.io/badge/LachlanDev-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a> 
-<a href="">![Twitter](https://img.shields.io/badge/LachlanDev-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a> 
-<a href="">![DiscordServer](https://img.shields.io/discord/587842272167723028?label=Discord%20Server&logo=Discord&colorB=5865F2&style=for-the-badge&logoColor=white)</a> 
-![Discord](https://img.shields.io/badge/LachlanDev%238014-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
+<a href="">![Instagram](https://img.shields.io/badge/LachlanDev-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>&nbsp;
+<a href="">![Twitter](https://img.shields.io/badge/LachlanDev-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>&nbsp;
