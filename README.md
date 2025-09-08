@@ -5,7 +5,7 @@
 👨‍💻 &nbsp;Actualmente estoy aprendiendo y desarrollando proyectos personales mientras me preparo para crecer como ingeniero de software.\
 💡 &nbsp;Me gusta explorar nuevas tecnologías y crear soluciones prácticas que me ayuden a mejorar mis habilidades.\
 🎓 &nbsp;Estoy estudiando en la universidad y, de manera autodidacta, profundizo en programación y lógica para fortalecer mi camino como ingeniero.\
-🌱 &nbsp;I'm on track for learning more about Web3, Microservice Based Architecture, Machine Learning.\
+🌱 &nbsp;Estoy enfocado en aprender más sobre React y Angular con los cuales crezco en áreas como arquitectura de aplicaciones, buenas prácticas y optimización del rendimiento web.\
 ✍️ &nbsp;En mi tiempo libre disfruto de la música, los videojuegos y el cine, especialmente cuando tienen grandes historias que inspiran.\
 ✉️ &nbsp;Puedes contactarme por correo en CristianCv2000@hotmail.com y con gusto responderé lo más pronto posible.\
 📄 &nbsp;Pronto compartiré mi portafolio y proyectos en los que estoy trabajando. ¡Estoy abierto a consejos y retroalimentación!
