@@ -10,14 +10,6 @@
 ✉️ &nbsp;Puedes contactarme por correo en CristianCv2000@hotmail.com y con gusto responderé lo más pronto posible.\
 📄 &nbsp;Pronto compartiré mi portafolio y proyectos en los que estoy trabajando. ¡Estoy abierto a consejos y retroalimentación!
 
-
-### Spotify Playing 🎧
-
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/11153360645)
-
----
-
-
 ### 🛠 &nbsp;Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
